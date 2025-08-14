@@ -31,4 +31,4 @@ devoir 5
 # if is_admit==False:
 #     print(is_admit)
 # else:
-#     print(f"c'est {not is_admit}")
+#     print(f"c'est {not is_admit}") //
